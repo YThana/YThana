@@ -1,57 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="950" height="570" viewBox="0 0 950 570" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">
-<rect x="1" y="1" width="948" height="568" rx="12" fill="#11151c" stroke="#2d333b"/>
-<rect x="1" y="1" width="948" height="34" rx="12" fill="#1a2028"/><rect x="1" y="24" width="948" height="12" fill="#1a2028"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="963" height="530" viewBox="0 0 963 530" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">
+<rect x="1" y="1" width="961" height="528" rx="12" fill="#11151c" stroke="#2d333b"/>
+<rect x="1" y="1" width="961" height="34" rx="12" fill="#1a2028"/><rect x="1" y="24" width="961" height="12" fill="#1a2028"/>
 <circle cx="24" cy="18" r="5.5" fill="#ff5f57"/><circle cx="44" cy="18" r="5.5" fill="#febc2e"/><circle cx="64" cy="18" r="5.5" fill="#28c840"/>
-<text x="475.0" y="22" text-anchor="middle" fill="#8b949e">YThana — zsh</text>
+<text x="481.5" y="22" text-anchor="middle" fill="#8b949e">YThana — zsh</text>
 <text x="28" y="64"><tspan fill="#7ee787">➜</tspan><tspan fill="#58a6ff"> ~ </tspan><tspan fill="#c9d1d9">neofetch --profile</tspan></text>
-<text x="28" y="94" xml:space="preserve" fill="#b794f4" textLength="280.8" lengthAdjust="spacingAndGlyphs">                       '''''''''''''</text>
-<text x="28" y="109" xml:space="preserve" fill="#b794f4" textLength="304.2" lengthAdjust="spacingAndGlyphs">                    '''''''''''''''''''</text>
-<text x="28" y="124" xml:space="preserve" fill="#b794f4" textLength="319.8" lengthAdjust="spacingAndGlyphs">                  '''''''''''''''''''''''</text>
-<text x="28" y="139" xml:space="preserve" fill="#b794f4" textLength="327.6" lengthAdjust="spacingAndGlyphs">                 ''''''''''''''''''''''':'</text>
-<text x="28" y="154" xml:space="preserve" fill="#b794f4" textLength="335.4" lengthAdjust="spacingAndGlyphs">                '''''''''':'''::+-,''''''''</text>
-<text x="28" y="169" xml:space="preserve" fill="#b794f4" textLength="327.6" lengthAdjust="spacingAndGlyphs">                ''''''',=+*:-=*=*=*+~'''''</text>
-<text x="28" y="184" xml:space="preserve" fill="#b794f4" textLength="327.6" lengthAdjust="spacingAndGlyphs">                ''''':;----*?#*;;~~+?-''''</text>
-<text x="28" y="199" xml:space="preserve" fill="#b794f4" textLength="319.8" lengthAdjust="spacingAndGlyphs">                 '''';**=--*???*~,=?#='''</text>
-<text x="28" y="214" xml:space="preserve" fill="#b794f4" textLength="312.0" lengthAdjust="spacingAndGlyphs">                    ''*??;+?????!+!?#+:=</text>
-<text x="28" y="229" xml:space="preserve" fill="#b794f4" textLength="312.0" lengthAdjust="spacingAndGlyphs">                    :~+?????*!!??????*=+</text>
-<text x="28" y="244" xml:space="preserve" fill="#b794f4" textLength="304.2" lengthAdjust="spacingAndGlyphs">                     -+?????!!!?!????*+</text>
-<text x="28" y="259" xml:space="preserve" fill="#b794f4" textLength="296.4" lengthAdjust="spacingAndGlyphs">                      '+?#???!!?????*'</text>
-<text x="28" y="274" xml:space="preserve" fill="#b794f4" textLength="288.6" lengthAdjust="spacingAndGlyphs">                        ,=!!!!?!!!*==</text>
-<text x="28" y="289" xml:space="preserve" fill="#b794f4" textLength="319.8" lengthAdjust="spacingAndGlyphs">                         :=~~~~~~=*?#~,''</text>
-<text x="28" y="304" xml:space="preserve" fill="#b794f4" textLength="374.4" lengthAdjust="spacingAndGlyphs">                      '':-=====*!?#?!=~-~-~;:'''</text>
-<text x="28" y="319" xml:space="preserve" fill="#b794f4" textLength="405.6" lengthAdjust="spacingAndGlyphs">                 ''':,;,;~*!!???!*=~---~+-~-++---;,'</text>
-<text x="28" y="334" xml:space="preserve" fill="#b794f4" textLength="413.4" lengthAdjust="spacingAndGlyphs">               ':----~~~~--~~~~-----~=~--~=~--~+-~+-:</text>
-<text x="28" y="349" xml:space="preserve" fill="#b794f4" textLength="421.2" lengthAdjust="spacingAndGlyphs">             ':----+~~-~~~+---~+--~+---+~--~+~~~---~+:</text>
-<text x="28" y="364" xml:space="preserve" fill="#b794f4" textLength="429.0" lengthAdjust="spacingAndGlyphs">            ',,-~+---+~~-~~-+~--++--~+-~~~~-~~~-~+-+~~'</text>
-<text x="28" y="379" xml:space="preserve" fill="#b794f4" textLength="436.8" lengthAdjust="spacingAndGlyphs">            :;:;--~+---+~~--~~~~~~~~~~~~-~~---+----~~~+'</text>
-<text x="28" y="394" xml:space="preserve" fill="#b794f4" textLength="444.6" lengthAdjust="spacingAndGlyphs">           :,,,;~~--~+---+~---+~~-+~--~+~--++;-;;-+~-~~-'</text>
-<text x="28" y="409" xml:space="preserve" fill="#b794f4" textLength="444.6" lengthAdjust="spacingAndGlyphs">          ';;;,,~~~~--~=~--++--~=~--++---=~--;,,;-~--+~~-</text>
-<text x="28" y="424" xml:space="preserve" fill="#b794f4" textLength="452.4" lengthAdjust="spacingAndGlyphs">         ';,,,,,;-~~~~-~~+~--++--~=~--~+---~~;,,;++-~~-~~:</text>
-<text x="28" y="439" xml:space="preserve" fill="#b794f4" textLength="460.2" lengthAdjust="spacingAndGlyphs">        ',;;,;,,,~--~~~~-~-+~-~~+-~-~~~~-~-~~-,:;~--~~-+~-'</text>
-<text x="28" y="454" xml:space="preserve" fill="#b794f4" textLength="460.2" lengthAdjust="spacingAndGlyphs">         ',,,,;;,,++--~+---+~--~+-~-+~--~+~--~,:;--+~-~~,''</text>
-<text x="28" y="469" xml:space="preserve" fill="#b794f4" textLength="444.6" lengthAdjust="spacingAndGlyphs">          '--;;;,;;-++--~=---=~--~=~--+=---=+-,:,;~~+=*?-</text>
-<text x="28" y="484" xml:space="preserve" fill="#b794f4" textLength="444.6" lengthAdjust="spacingAndGlyphs">          :====+-,;~--++--~=~--++---+~--~+~-~-,,,~=*!???*</text>
-<text x="28" y="499" xml:space="preserve" fill="#b794f4" textLength="452.4" lengthAdjust="spacingAndGlyphs">          +=====;,;-;-~~~~-~~~~~~~~-~~~~~~~~~-,,,~!??????'</text>
-<text x="28" y="514" xml:space="preserve" fill="#b794f4" textLength="452.4" lengthAdjust="spacingAndGlyphs">         '*!*==+;;,,~~--++---+~--~+~--++---=~,,;,+??????!'</text>
-<text y="94" xml:space="preserve"><tspan x="524.2" fill="#58a6ff" textLength="39.0" lengthAdjust="spacingAndGlyphs">thana</tspan><tspan x="571.0" fill="#8b949e" textLength="62.4" lengthAdjust="spacingAndGlyphs">· YThana</tspan></text>
-<line x1="524.2" y1="105" x2="922" y2="105" stroke="#2d333b"/>
-<text y="124" xml:space="preserve"><tspan x="524.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Role</tspan><tspan x="625.6" fill="#c9d1d9" textLength="156.0" lengthAdjust="spacingAndGlyphs">Full-stack Developer</tspan></text>
-<text y="139" xml:space="preserve"><tspan x="524.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Base</tspan><tspan x="625.6" fill="#c9d1d9" textLength="163.8" lengthAdjust="spacingAndGlyphs">Batticaloa, Sri Lanka</tspan></text>
-<text y="154" xml:space="preserve"><tspan x="524.2" fill="#79c0ff" textLength="39.0" lengthAdjust="spacingAndGlyphs">Focus</tspan><tspan x="625.6" fill="#c9d1d9" textLength="249.6" lengthAdjust="spacingAndGlyphs">Full-stack Web · AI-powered Apps</tspan></text>
-<text y="184" xml:space="preserve"><tspan x="524.2" fill="#7ee787" textLength="54.6" lengthAdjust="spacingAndGlyphs">~/stack</tspan></text>
-<text y="199" xml:space="preserve"><tspan x="524.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Lang</tspan><tspan x="625.6" fill="#c9d1d9" textLength="296.4" lengthAdjust="spacingAndGlyphs">TypeScript · JavaScript · Python · SQL</tspan></text>
-<text y="214" xml:space="preserve"><tspan x="524.2" fill="#79c0ff" textLength="62.4" lengthAdjust="spacingAndGlyphs">Frontend</tspan><tspan x="625.6" fill="#c9d1d9" textLength="140.4" lengthAdjust="spacingAndGlyphs">Vue · Nuxt · Ionic</tspan></text>
-<text y="229" xml:space="preserve"><tspan x="524.2" fill="#79c0ff" textLength="54.6" lengthAdjust="spacingAndGlyphs">Backend</tspan><tspan x="625.6" fill="#c9d1d9" textLength="195.0" lengthAdjust="spacingAndGlyphs">Node.js · Nitro · FastAPI</tspan></text>
-<text y="244" xml:space="preserve"><tspan x="524.2" fill="#79c0ff" textLength="15.6" lengthAdjust="spacingAndGlyphs">AI</tspan><tspan x="625.6" fill="#c9d1d9" textLength="171.6" lengthAdjust="spacingAndGlyphs">Vercel AI SDK · Gemini</tspan></text>
-<text y="259" xml:space="preserve"><tspan x="524.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Data</tspan><tspan x="625.6" fill="#c9d1d9" textLength="241.8" lengthAdjust="spacingAndGlyphs">PostgreSQL (Neon) · Drizzle ORM</tspan></text>
-<text y="289" xml:space="preserve"><tspan x="524.2" fill="#7ee787" textLength="78.0" lengthAdjust="spacingAndGlyphs">~/projects</tspan></text>
-<text y="304" xml:space="preserve"><tspan x="524.2" fill="#79c0ff" textLength="46.8" lengthAdjust="spacingAndGlyphs">wa-bot</tspan><tspan x="625.6" fill="#ffa657" textLength="210.6" lengthAdjust="spacingAndGlyphs">AI commerce bot on WhatsApp</tspan></text>
-<text y="319" xml:space="preserve"><tspan x="625.6" fill="#8b949e" textLength="249.6" lengthAdjust="spacingAndGlyphs">Meta Cloud API · Nuxt 4 · Gemini</tspan></text>
-<text y="334" xml:space="preserve"><tspan x="524.2" fill="#79c0ff" textLength="70.2" lengthAdjust="spacingAndGlyphs">myseedbox</tspan><tspan x="625.6" fill="#ffa657" textLength="148.2" lengthAdjust="spacingAndGlyphs">Self-hosted seedbox</tspan></text>
-<text y="349" xml:space="preserve"><tspan x="625.6" fill="#8b949e" textLength="210.6" lengthAdjust="spacingAndGlyphs">Vue · FastAPI · qBittorrent</tspan></text>
-<text y="364" xml:space="preserve"><tspan x="524.2" fill="#79c0ff" textLength="85.8" lengthAdjust="spacingAndGlyphs">smart-stock</tspan><tspan x="625.6" fill="#ffa657" textLength="210.6" lengthAdjust="spacingAndGlyphs">Inventory management · Nuxt</tspan></text>
-<text y="394" xml:space="preserve"><tspan x="524.2" fill="#7ee787" textLength="54.6" lengthAdjust="spacingAndGlyphs">~/reach</tspan></text>
-<text y="409" xml:space="preserve"><tspan x="524.2" fill="#79c0ff" textLength="46.8" lengthAdjust="spacingAndGlyphs">GitHub</tspan><tspan x="625.6" fill="#c9d1d9" textLength="132.6" lengthAdjust="spacingAndGlyphs">github.com/YThana</tspan></text>
-<text y="424" xml:space="preserve"><tspan x="524.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Mail</tspan><tspan x="625.6" fill="#c9d1d9" textLength="140.4" lengthAdjust="spacingAndGlyphs">ythana09@gmail.com</tspan></text>
-<text x="28" y="544"><tspan fill="#7ee787">➜</tspan><tspan fill="#58a6ff"> ~ </tspan><tspan fill="#c9d1d9">building with Vue, Nuxt &amp; AI</tspan><tspan fill="#8b949e"> ▍</tspan></text>
+<text x="28" y="88.0" xml:space="preserve" fill="#b794f4" font-size="8" textLength="265.2" lengthAdjust="spacingAndGlyphs">                                                  '</text>
+<text x="28" y="96.6" xml:space="preserve" fill="#b794f4" font-size="8" textLength="291.2" lengthAdjust="spacingAndGlyphs">                                     ``'''''',,,;: :' :'</text>
+<text x="28" y="105.2" xml:space="preserve" fill="#b794f4" font-size="8" textLength="291.2" lengthAdjust="spacingAndGlyphs">                                ''``',;;;;;;;;;;;-:', ,,</text>
+<text x="28" y="113.8" xml:space="preserve" fill="#b794f4" font-size="8" textLength="317.2" lengthAdjust="spacingAndGlyphs">                                ';;;;;;;;;;;;;;;;;;,;;;,:,::`</text>
+<text x="28" y="122.4" xml:space="preserve" fill="#b794f4" font-size="8" textLength="322.4" lengthAdjust="spacingAndGlyphs">                             ',,;;;;;;;;;;;;;;;;;;;;;;;;;;,:'`</text>
+<text x="28" y="131.0" xml:space="preserve" fill="#b794f4" font-size="8" textLength="332.8" lengthAdjust="spacingAndGlyphs">                           `',;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;'</text>
+<text x="28" y="139.6" xml:space="preserve" fill="#b794f4" font-size="8" textLength="338.0" lengthAdjust="spacingAndGlyphs">                           `:,;;;;;;;;;;;;;;;;;;;;,;;;;;;;;;;;--:</text>
+<text x="28" y="148.2" xml:space="preserve" fill="#b794f4" font-size="8" textLength="338.0" lengthAdjust="spacingAndGlyphs">                          `:,,,;;;;;;;,;;,;;;;,;;;+;;,,,;;;;;;,;,</text>
+<text x="28" y="156.8" xml:space="preserve" fill="#b794f4" font-size="8" textLength="343.2" lengthAdjust="spacingAndGlyphs">                         `:,:,,,;;;,;~;;=;,;---=-=#*!=;;,,,,;,;;-,</text>
+<text x="28" y="165.4" xml:space="preserve" fill="#b794f4" font-size="8" textLength="338.0" lengthAdjust="spacingAndGlyphs">                         `::,,,,,,;,-?==#+--**?!!##??#?*=,::,,,,,</text>
+<text x="28" y="174.0" xml:space="preserve" fill="#b794f4" font-size="8" textLength="338.0" lengthAdjust="spacingAndGlyphs">                         '':,,,,,,-+*?!!??!*###!+~---~=!#*:,,,,,;</text>
+<text x="28" y="182.6" xml:space="preserve" fill="#b794f4" font-size="8" textLength="338.0" lengthAdjust="spacingAndGlyphs">                          `:,,,:,=+=--~--~!####*+=*!??!!##-:,,,,,</text>
+<text x="28" y="191.2" xml:space="preserve" fill="#b794f4" font-size="8" textLength="332.8" lengthAdjust="spacingAndGlyphs">                           ''::::*!*??!!**!#####?*+~+!?###+::::'</text>
+<text x="28" y="199.8" xml:space="preserve" fill="#b794f4" font-size="8" textLength="327.6" lengthAdjust="spacingAndGlyphs">                             `:::~?#?!*,;*?#######*,-??###+:=~`</text>
+<text x="28" y="208.4" xml:space="preserve" fill="#b794f4" font-size="8" textLength="322.4" lengthAdjust="spacingAndGlyphs">                               '-,*####==##########??#####~-!!</text>
+<text x="28" y="217.0" xml:space="preserve" fill="#b794f4" font-size="8" textLength="322.4" lengthAdjust="spacingAndGlyphs">                               ,!~+?#######??#???#########==!*</text>
+<text x="28" y="225.6" xml:space="preserve" fill="#b794f4" font-size="8" textLength="322.4" lengthAdjust="spacingAndGlyphs">                                =!=?#######?????###?######?#?,</text>
+<text x="28" y="234.2" xml:space="preserve" fill="#b794f4" font-size="8" textLength="317.2" lengthAdjust="spacingAndGlyphs">                                '=*!#####??###??????######!!,</text>
+<text x="28" y="242.8" xml:space="preserve" fill="#b794f4" font-size="8" textLength="312.0" lengthAdjust="spacingAndGlyphs">                                 '~=?#######????#########=:`</text>
+<text x="28" y="251.4" xml:space="preserve" fill="#b794f4" font-size="8" textLength="306.8" lengthAdjust="spacingAndGlyphs">                                    +?#######???#######?*-`</text>
+<text x="28" y="260.0" xml:space="preserve" fill="#b794f4" font-size="8" textLength="301.6" lengthAdjust="spacingAndGlyphs">                                     ,+!???#######????!*?-</text>
+<text x="28" y="268.6" xml:space="preserve" fill="#b794f4" font-size="8" textLength="317.2" lengthAdjust="spacingAndGlyphs">                                       ~**==****===***?##=:''</text>
+<text x="28" y="277.2" xml:space="preserve" fill="#b794f4" font-size="8" textLength="343.2" lengthAdjust="spacingAndGlyphs">                                      `,!!**====***!?#####?*++-;:'</text>
+<text x="28" y="285.8" xml:space="preserve" fill="#b794f4" font-size="8" textLength="379.6" lengthAdjust="spacingAndGlyphs">                                  `:,-~=*!!!!!!!!??######?*======**+~-;:'</text>
+<text x="28" y="294.4" xml:space="preserve" fill="#b794f4" font-size="8" textLength="405.6" lengthAdjust="spacingAndGlyphs">                              `:,-~~~~~*!???????######?!==++=*!======*====+-;'</text>
+<text x="28" y="303.0" xml:space="preserve" fill="#b794f4" font-size="8" textLength="416.0" lengthAdjust="spacingAndGlyphs">                          ',;-~+~++++++=*!??####??!!*==++=====*======!*======*=;</text>
+<text x="28" y="311.6" xml:space="preserve" fill="#b794f4" font-size="8" textLength="426.4" lengthAdjust="spacingAndGlyphs">                        ,-+=+++++**====+++========+==++==!!======!*=====**===**=+:</text>
+<text x="28" y="320.2" xml:space="preserve" fill="#b794f4" font-size="8" textLength="431.6" lengthAdjust="spacingAndGlyphs">                      :-~+====*=====*!=====+=++==================*======*!===++=!!,</text>
+<text x="28" y="328.8" xml:space="preserve" fill="#b794f4" font-size="8" textLength="436.8" lengthAdjust="spacingAndGlyphs">                     ;~+*====**=========!*=====*!====*!=====*?*=====!!=======+=====,</text>
+<text x="28" y="337.4" xml:space="preserve" fill="#b794f4" font-size="8" textLength="442.0" lengthAdjust="spacingAndGlyphs">                    ;~-===*=====*!======*==========*=====*==========**===+=*!==**==+'</text>
+<text x="28" y="346.0" xml:space="preserve" fill="#b794f4" font-size="8" textLength="447.2" lengthAdjust="spacingAndGlyphs">                   ,+~-++=*=========!*=====!!=====!!====*?*=====!!=====**+=+===!!==*=`</text>
+<text x="28" y="354.6" xml:space="preserve" fill="#b794f4" font-size="8" textLength="447.2" lengthAdjust="spacingAndGlyphs">                  :~+~-++====!*=====*==========*=====**======*=========**+=+=======*!~</text>
+<text x="28" y="363.2" xml:space="preserve" fill="#b794f4" font-size="8" textLength="452.4" lengthAdjust="spacingAndGlyphs">                 :+~~~-++=======**=====!!=====*!*====!*=====!?=====*?*~=+~++==!*======;</text>
+<text x="28" y="371.8" xml:space="preserve" fill="#b794f4" font-size="8" textLength="457.6" lengthAdjust="spacingAndGlyphs">                `-~~~=~~+*!=====!*=========*=====**======*==========*=~++~++==!*==*!===,</text>
+<text x="28" y="380.4" xml:space="preserve" fill="#b794f4" font-size="8" textLength="462.8" lengthAdjust="spacingAndGlyphs">                -~++~+~-+====*=====!?=====!!=====*!=====*?*====*?*====++~-~+=======*==*!:</text>
+<text x="28" y="389.0" xml:space="preserve" fill="#b794f4" font-size="8" textLength="468.0" lengthAdjust="spacingAndGlyphs">               -+~+~~~~-~===*!================*======*======*=========++-~~+*!==========+`</text>
+<text x="28" y="397.6" xml:space="preserve" fill="#b794f4" font-size="8" textLength="468.0" lengthAdjust="spacingAndGlyphs">              ;++~~~~~~+~~=====*?*====*?*====*!*====*!*=====?!=====!!=+~~~~+*!===!!===*==~</text>
+<text x="28" y="406.2" xml:space="preserve" fill="#b794f4" font-size="8" textLength="473.2" lengthAdjust="spacingAndGlyphs">             ;~~~~~~=+~~--**====*=========*======**======*=========**=+~~-~+=========*!==+,</text>
+<text x="28" y="414.8" xml:space="preserve" fill="#b794f4" font-size="8" textLength="473.2" lengthAdjust="spacingAndGlyphs">             ,~~+=~~~~~~~-~+*!=====!!=====!!=====!!=====!!=====*?*====*+~-~====**======~-;:</text>
+<text x="28" y="423.4" xml:space="preserve" fill="#b794f4" font-size="8" textLength="462.8" lengthAdjust="spacingAndGlyphs">              `,-~~~~~+=~~~~=*=========================================~~-~~+==!!===**!~'</text>
+<text x="28" y="432.0" xml:space="preserve" fill="#b794f4" font-size="8" textLength="457.6" lengthAdjust="spacingAndGlyphs">                 ==+~~~~~-+~~+=*!*====!?=====!!=====!?*====*?!=====!!==~~-+~~+===*!!??#+</text>
+<text x="28" y="440.6" xml:space="preserve" fill="#b794f4" font-size="8" textLength="457.6" lengthAdjust="spacingAndGlyphs">                ;!!!***==+++~+==*==================================*==+~~-~~=**!!??####!</text>
+<text x="28" y="449.2" xml:space="preserve" fill="#b794f4" font-size="8" textLength="462.8" lengthAdjust="spacingAndGlyphs">                =!!!!!!!!=~~+*==++*?*====*?*====*?!=====?!=====!?=====*+~~~+*!!?########,</text>
+<text x="28" y="457.8" xml:space="preserve" fill="#b794f4" font-size="8" textLength="462.8" lengthAdjust="spacingAndGlyphs">               ;!!!!!!!!!+~~~=+~+==*====================*=======*======~~~~+=!?#########+</text>
+<text x="28" y="466.4" xml:space="preserve" fill="#b794f4" font-size="8" textLength="462.8" lengthAdjust="spacingAndGlyphs">               =!?!!!!!!*~=~~~~=!=====!!=====!!=====!?*====*?*=====!*+~~++~+=?##########+</text>
+<text x="28" y="475.0" xml:space="preserve" fill="#b794f4" font-size="8" textLength="462.8" lengthAdjust="spacingAndGlyphs">              :*?#?!*!!!=~+~~~~=*============*=======*======*======**~~~~+~+*###########-</text>
+<text y="113.3" xml:space="preserve"><tspan x="537.2" fill="#58a6ff" textLength="39.0" lengthAdjust="spacingAndGlyphs">thana</tspan><tspan x="584.0" fill="#8b949e" textLength="62.4" lengthAdjust="spacingAndGlyphs">· YThana</tspan></text>
+<line x1="537.2" y1="124.3" x2="935" y2="124.3" stroke="#2d333b"/>
+<text y="143.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Role</tspan><tspan x="638.6" fill="#c9d1d9" textLength="156.0" lengthAdjust="spacingAndGlyphs">Full-stack Developer</tspan></text>
+<text y="158.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Base</tspan><tspan x="638.6" fill="#c9d1d9" textLength="163.8" lengthAdjust="spacingAndGlyphs">Batticaloa, Sri Lanka</tspan></text>
+<text y="173.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="39.0" lengthAdjust="spacingAndGlyphs">Focus</tspan><tspan x="638.6" fill="#c9d1d9" textLength="249.6" lengthAdjust="spacingAndGlyphs">Full-stack Web · AI-powered Apps</tspan></text>
+<text y="203.3" xml:space="preserve"><tspan x="537.2" fill="#7ee787" textLength="54.6" lengthAdjust="spacingAndGlyphs">~/stack</tspan></text>
+<text y="218.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Lang</tspan><tspan x="638.6" fill="#c9d1d9" textLength="296.4" lengthAdjust="spacingAndGlyphs">TypeScript · JavaScript · Python · SQL</tspan></text>
+<text y="233.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="62.4" lengthAdjust="spacingAndGlyphs">Frontend</tspan><tspan x="638.6" fill="#c9d1d9" textLength="140.4" lengthAdjust="spacingAndGlyphs">Vue · Nuxt · Ionic</tspan></text>
+<text y="248.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="54.6" lengthAdjust="spacingAndGlyphs">Backend</tspan><tspan x="638.6" fill="#c9d1d9" textLength="195.0" lengthAdjust="spacingAndGlyphs">Node.js · Nitro · FastAPI</tspan></text>
+<text y="263.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="15.6" lengthAdjust="spacingAndGlyphs">AI</tspan><tspan x="638.6" fill="#c9d1d9" textLength="171.6" lengthAdjust="spacingAndGlyphs">Vercel AI SDK · Gemini</tspan></text>
+<text y="278.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Data</tspan><tspan x="638.6" fill="#c9d1d9" textLength="241.8" lengthAdjust="spacingAndGlyphs">PostgreSQL (Neon) · Drizzle ORM</tspan></text>
+<text y="308.3" xml:space="preserve"><tspan x="537.2" fill="#7ee787" textLength="78.0" lengthAdjust="spacingAndGlyphs">~/projects</tspan></text>
+<text y="323.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="46.8" lengthAdjust="spacingAndGlyphs">wa-bot</tspan><tspan x="638.6" fill="#ffa657" textLength="210.6" lengthAdjust="spacingAndGlyphs">AI commerce bot on WhatsApp</tspan></text>
+<text y="338.3" xml:space="preserve"><tspan x="638.6" fill="#8b949e" textLength="249.6" lengthAdjust="spacingAndGlyphs">Meta Cloud API · Nuxt 4 · Gemini</tspan></text>
+<text y="353.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="70.2" lengthAdjust="spacingAndGlyphs">myseedbox</tspan><tspan x="638.6" fill="#ffa657" textLength="148.2" lengthAdjust="spacingAndGlyphs">Self-hosted seedbox</tspan></text>
+<text y="368.3" xml:space="preserve"><tspan x="638.6" fill="#8b949e" textLength="210.6" lengthAdjust="spacingAndGlyphs">Vue · FastAPI · qBittorrent</tspan></text>
+<text y="383.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="85.8" lengthAdjust="spacingAndGlyphs">smart-stock</tspan><tspan x="638.6" fill="#ffa657" textLength="210.6" lengthAdjust="spacingAndGlyphs">Inventory management · Nuxt</tspan></text>
+<text y="413.3" xml:space="preserve"><tspan x="537.2" fill="#7ee787" textLength="54.6" lengthAdjust="spacingAndGlyphs">~/reach</tspan></text>
+<text y="428.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="46.8" lengthAdjust="spacingAndGlyphs">GitHub</tspan><tspan x="638.6" fill="#c9d1d9" textLength="132.6" lengthAdjust="spacingAndGlyphs">github.com/YThana</tspan></text>
+<text y="443.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Mail</tspan><tspan x="638.6" fill="#c9d1d9" textLength="140.4" lengthAdjust="spacingAndGlyphs">ythana09@gmail.com</tspan></text>
+<text x="28" y="504.6"><tspan fill="#7ee787">➜</tspan><tspan fill="#58a6ff"> ~ </tspan><tspan fill="#c9d1d9">building with Vue, Nuxt &amp; AI</tspan><tspan fill="#8b949e"> ▍</tspan></text>
 </svg>

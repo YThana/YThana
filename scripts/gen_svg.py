@@ -13,9 +13,10 @@ DIM     = "#8b949e"
 GREEN   = "#7ee787"
 ORANGE  = "#ffa657"
 
-FS = 12
-LH = 15
-CW = FS * 0.65   # generous monospace char width so nothing clips
+FS, LH = 12, 15                 # info text
+FS_ART, LH_ART = 8, 8.6         # portrait: smaller font, tight leading
+CW = FS * 0.65
+CW_ART = FS_ART * 0.65
 
 K, V = 0, 13
 def kv(k, v, vcolor=VAL): return [(K, k, KEY), (V, v, vcolor)]
@@ -51,12 +52,19 @@ info = [
 info_chars = max((col + len(text)) for row in info if row and row != DIVIDER for col, text, _ in row)
 
 PAD_X, PAD_TOP = 28, 64
-ART_W = max(len(l) for l in portrait) * CW
+ART_W = max(len(l) for l in portrait) * CW_ART
+ART_H = len(portrait) * LH_ART
+INFO_H = len(info) * LH
 INFO_X = PAD_X + ART_W + 36
 INFO_W = info_chars * CW
 W = int(INFO_X + INFO_W + PAD_X)
-body_lines = max(len(portrait) + 2, len(info) + 2)
-H = int(PAD_TOP + (body_lines + 1) * LH + 26)
+
+y0 = PAD_TOP            # prompt line
+art_y = y0 + LH * 1.6
+info_y = art_y + max(0, (ART_H - INFO_H) / 2)
+body_bottom = art_y + max(ART_H, INFO_H)
+fy = body_bottom + LH * 1.4
+H = int(fy + 26)
 
 def esc(s): return html.escape(s, quote=False)
 
@@ -67,25 +75,22 @@ out.append(f'<rect x="1" y="1" width="{W-2}" height="34" rx="12" fill="{BAR}"/><
 out.append(f'<circle cx="24" cy="18" r="5.5" fill="#ff5f57"/><circle cx="44" cy="18" r="5.5" fill="#febc2e"/><circle cx="64" cy="18" r="5.5" fill="#28c840"/>')
 out.append(f'<text x="{W/2}" y="22" text-anchor="middle" fill="{DIM}">YThana — zsh</text>')
 
-y = PAD_TOP
-out.append(f'<text x="{PAD_X}" y="{y}"><tspan fill="{GREEN}">➜</tspan><tspan fill="{BLUE}"> ~ </tspan><tspan fill="{VAL}">neofetch --profile</tspan></text>')
+out.append(f'<text x="{PAD_X}" y="{y0}"><tspan fill="{GREEN}">➜</tspan><tspan fill="{BLUE}"> ~ </tspan><tspan fill="{VAL}">neofetch --profile</tspan></text>')
 
-art_y = y + LH * 2
 for i, line in enumerate(portrait):
     if line.strip():
-        out.append(f'<text x="{PAD_X}" y="{art_y + i*LH}" xml:space="preserve" fill="{PURPLE}" textLength="{len(line)*CW:.1f}" lengthAdjust="spacingAndGlyphs">{esc(line)}</text>')
+        out.append(f'<text x="{PAD_X}" y="{art_y + i*LH_ART:.1f}" xml:space="preserve" fill="{PURPLE}" font-size="{FS_ART}" textLength="{len(line)*CW_ART:.1f}" lengthAdjust="spacingAndGlyphs">{esc(line)}</text>')
 
 for i, row in enumerate(info):
     if not row: continue
-    yy = art_y + i * LH
+    yy = info_y + i * LH
     if row == DIVIDER:
-        out.append(f'<line x1="{INFO_X}" y1="{yy-4}" x2="{INFO_X + INFO_W:.0f}" y2="{yy-4}" stroke="{BORDER}"/>')
+        out.append(f'<line x1="{INFO_X}" y1="{yy-4:.1f}" x2="{INFO_X + INFO_W:.0f}" y2="{yy-4:.1f}" stroke="{BORDER}"/>')
         continue
     spans = "".join(f'<tspan x="{INFO_X + col*CW:.1f}" fill="{color}" textLength="{len(text)*CW:.1f}" lengthAdjust="spacingAndGlyphs">{esc(text)}</tspan>' for col, text, color in row)
-    out.append(f'<text y="{yy}" xml:space="preserve">{spans}</text>')
+    out.append(f'<text y="{yy:.1f}" xml:space="preserve">{spans}</text>')
 
-fy = art_y + (body_lines - 1) * LH
-out.append(f'<text x="{PAD_X}" y="{fy}"><tspan fill="{GREEN}">➜</tspan><tspan fill="{BLUE}"> ~ </tspan><tspan fill="{VAL}">building with Vue, Nuxt &amp; AI</tspan><tspan fill="{DIM}"> ▍</tspan></text>')
+out.append(f'<text x="{PAD_X}" y="{fy:.1f}"><tspan fill="{GREEN}">➜</tspan><tspan fill="{BLUE}"> ~ </tspan><tspan fill="{VAL}">building with Vue, Nuxt &amp; AI</tspan><tspan fill="{DIM}"> ▍</tspan></text>')
 out.append('</svg>')
 
 open(sys.argv[2], "w").write("\n".join(out))
