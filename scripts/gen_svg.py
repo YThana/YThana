@@ -48,7 +48,7 @@ info = [
     [(0, "Tamil", VAL), (6, "native", DIM), (14, "· English", VAL), (24, "fluent", DIM), (31, "· Sinhala", VAL), (41, "basic", DIM)],
     [],
     sec("~/reach"),
-    kv("Web", "ythananjhaya.xyz"),
+    kv("Web", "ythananjhayan.com"),
     kv("LinkedIn", "linkedin.com/in/thananjhayan-yohenthiran"),
     kv("GitHub", "github.com/YThana"),
     kv("Mail", "ythana09@gmail.com"),
@@ -95,7 +95,7 @@ for i, row in enumerate(info):
     spans = "".join(f'<tspan x="{INFO_X + col*CW:.1f}" fill="{color}" textLength="{len(text)*CW:.1f}" lengthAdjust="spacingAndGlyphs">{esc(text)}</tspan>' for col, text, color in row)
     out.append(f'<text y="{yy:.1f}" xml:space="preserve">{spans}</text>')
 
-out.append(f'<text x="{PAD_X}" y="{fy:.1f}"><tspan fill="{GREEN}">➜</tspan><tspan fill="{BLUE}"> ~ </tspan><tspan fill="{VAL}">building with Vue, Nuxt &amp; AI</tspan><tspan fill="{DIM}"> ▍</tspan></text>')
+out.append(f'<text x="{PAD_X}" y="{fy:.1f}"><tspan fill="{GREEN}">➜</tspan><tspan fill="{BLUE}"> ~ </tspan><tspan fill="{VAL}">building with Vue, Nuxt, Hono.js, FastAPI &amp; AI</tspan><tspan fill="{DIM}"> ▍</tspan></text>')
 out.append('</svg>')
 
 open(sys.argv[2], "w").write("\n".join(out))
