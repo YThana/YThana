@@ -3,8 +3,8 @@
 
   <br>
 
-  <a href="https://ythananjhayan.com">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-ythananjhayan.com-58a6ff?style=flat-square&labelColor=1a2028" alt="Portfolio" />
+  <a href="https://ythananjhayan.xyz">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-ythananjhayan.xyz-58a6ff?style=flat-square&labelColor=1a2028" alt="Portfolio" />
   </a>
   <a href="https://lk.linkedin.com/in/thananjhayan-yohenthiran">
     <img src="https://img.shields.io/badge/in-LinkedIn-0a66c2?style=flat-square&labelColor=1a2028" alt="LinkedIn" />

@@ -48,7 +48,7 @@ info = [
     [(0, "Tamil", VAL), (6, "native", DIM), (14, "· English", VAL), (24, "fluent", DIM), (31, "· Sinhala", VAL), (41, "basic", DIM)],
     [],
     sec("~/reach"),
-    kv("Web", "ythananjhayan.com"),
+    kv("Web", "ythananjhayan.xyz"),
     kv("LinkedIn", "linkedin.com/in/thananjhayan-yohenthiran"),
     kv("GitHub", "github.com/YThana"),
     kv("Mail", "ythana09@gmail.com"),
