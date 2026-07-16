@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="963" height="530" viewBox="0 0 963 530" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">
-<rect x="1" y="1" width="961" height="528" rx="12" fill="#11151c" stroke="#2d333b"/>
-<rect x="1" y="1" width="961" height="34" rx="12" fill="#1a2028"/><rect x="1" y="24" width="961" height="12" fill="#1a2028"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="978" height="530" viewBox="0 0 978 530" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">
+<rect x="1" y="1" width="976" height="528" rx="12" fill="#11151c" stroke="#2d333b"/>
+<rect x="1" y="1" width="976" height="34" rx="12" fill="#1a2028"/><rect x="1" y="24" width="976" height="12" fill="#1a2028"/>
 <circle cx="24" cy="18" r="5.5" fill="#ff5f57"/><circle cx="44" cy="18" r="5.5" fill="#febc2e"/><circle cx="64" cy="18" r="5.5" fill="#28c840"/>
-<text x="481.5" y="22" text-anchor="middle" fill="#8b949e">YThana — zsh</text>
+<text x="489.0" y="22" text-anchor="middle" fill="#8b949e">YThana — zsh</text>
 <text x="28" y="64"><tspan fill="#7ee787">➜</tspan><tspan fill="#58a6ff"> ~ </tspan><tspan fill="#c9d1d9">neofetch --profile</tspan></text>
 <text x="28" y="88.0" xml:space="preserve" fill="#b794f4" font-size="8" textLength="265.2" lengthAdjust="spacingAndGlyphs">                                                  '</text>
 <text x="28" y="96.6" xml:space="preserve" fill="#b794f4" font-size="8" textLength="291.2" lengthAdjust="spacingAndGlyphs">                                     ``'''''',,,;: :' :'</text>
@@ -50,25 +50,26 @@
 <text x="28" y="457.8" xml:space="preserve" fill="#b794f4" font-size="8" textLength="462.8" lengthAdjust="spacingAndGlyphs">               ;!!!!!!!!!+~~~=+~+==*====================*=======*======~~~~+=!?#########+</text>
 <text x="28" y="466.4" xml:space="preserve" fill="#b794f4" font-size="8" textLength="462.8" lengthAdjust="spacingAndGlyphs">               =!?!!!!!!*~=~~~~=!=====!!=====!!=====!?*====*?*=====!*+~~++~+=?##########+</text>
 <text x="28" y="475.0" xml:space="preserve" fill="#b794f4" font-size="8" textLength="462.8" lengthAdjust="spacingAndGlyphs">              :*?#?!*!!!=~+~~~~=*============*=======*======*======**~~~~+~+*###########-</text>
-<text y="113.3" xml:space="preserve"><tspan x="537.2" fill="#58a6ff" textLength="39.0" lengthAdjust="spacingAndGlyphs">thana</tspan><tspan x="584.0" fill="#8b949e" textLength="62.4" lengthAdjust="spacingAndGlyphs">· YThana</tspan></text>
-<line x1="537.2" y1="124.3" x2="935" y2="124.3" stroke="#2d333b"/>
-<text y="143.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Role</tspan><tspan x="638.6" fill="#c9d1d9" textLength="156.0" lengthAdjust="spacingAndGlyphs">Full-stack Developer</tspan></text>
-<text y="158.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Base</tspan><tspan x="638.6" fill="#c9d1d9" textLength="163.8" lengthAdjust="spacingAndGlyphs">Batticaloa, Sri Lanka</tspan></text>
-<text y="173.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="39.0" lengthAdjust="spacingAndGlyphs">Focus</tspan><tspan x="638.6" fill="#c9d1d9" textLength="249.6" lengthAdjust="spacingAndGlyphs">Full-stack Web · AI-powered Apps</tspan></text>
-<text y="203.3" xml:space="preserve"><tspan x="537.2" fill="#7ee787" textLength="54.6" lengthAdjust="spacingAndGlyphs">~/stack</tspan></text>
-<text y="218.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Lang</tspan><tspan x="638.6" fill="#c9d1d9" textLength="296.4" lengthAdjust="spacingAndGlyphs">TypeScript · JavaScript · Python · SQL</tspan></text>
-<text y="233.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="62.4" lengthAdjust="spacingAndGlyphs">Frontend</tspan><tspan x="638.6" fill="#c9d1d9" textLength="140.4" lengthAdjust="spacingAndGlyphs">Vue · Nuxt · Ionic</tspan></text>
-<text y="248.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="54.6" lengthAdjust="spacingAndGlyphs">Backend</tspan><tspan x="638.6" fill="#c9d1d9" textLength="195.0" lengthAdjust="spacingAndGlyphs">Node.js · Nitro · FastAPI</tspan></text>
-<text y="263.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="15.6" lengthAdjust="spacingAndGlyphs">AI</tspan><tspan x="638.6" fill="#c9d1d9" textLength="171.6" lengthAdjust="spacingAndGlyphs">Vercel AI SDK · Gemini</tspan></text>
-<text y="278.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Data</tspan><tspan x="638.6" fill="#c9d1d9" textLength="241.8" lengthAdjust="spacingAndGlyphs">PostgreSQL (Neon) · Drizzle ORM</tspan></text>
-<text y="308.3" xml:space="preserve"><tspan x="537.2" fill="#7ee787" textLength="78.0" lengthAdjust="spacingAndGlyphs">~/projects</tspan></text>
-<text y="323.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="46.8" lengthAdjust="spacingAndGlyphs">wa-bot</tspan><tspan x="638.6" fill="#ffa657" textLength="210.6" lengthAdjust="spacingAndGlyphs">AI commerce bot on WhatsApp</tspan></text>
-<text y="338.3" xml:space="preserve"><tspan x="638.6" fill="#8b949e" textLength="249.6" lengthAdjust="spacingAndGlyphs">Meta Cloud API · Nuxt 4 · Gemini</tspan></text>
-<text y="353.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="70.2" lengthAdjust="spacingAndGlyphs">myseedbox</tspan><tspan x="638.6" fill="#ffa657" textLength="148.2" lengthAdjust="spacingAndGlyphs">Self-hosted seedbox</tspan></text>
-<text y="368.3" xml:space="preserve"><tspan x="638.6" fill="#8b949e" textLength="210.6" lengthAdjust="spacingAndGlyphs">Vue · FastAPI · qBittorrent</tspan></text>
-<text y="383.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="85.8" lengthAdjust="spacingAndGlyphs">smart-stock</tspan><tspan x="638.6" fill="#ffa657" textLength="210.6" lengthAdjust="spacingAndGlyphs">Inventory management · Nuxt</tspan></text>
-<text y="413.3" xml:space="preserve"><tspan x="537.2" fill="#7ee787" textLength="54.6" lengthAdjust="spacingAndGlyphs">~/reach</tspan></text>
-<text y="428.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="46.8" lengthAdjust="spacingAndGlyphs">GitHub</tspan><tspan x="638.6" fill="#c9d1d9" textLength="132.6" lengthAdjust="spacingAndGlyphs">github.com/YThana</tspan></text>
-<text y="443.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Mail</tspan><tspan x="638.6" fill="#c9d1d9" textLength="140.4" lengthAdjust="spacingAndGlyphs">ythana09@gmail.com</tspan></text>
+<text y="98.3" xml:space="preserve"><tspan x="537.2" fill="#58a6ff" textLength="39.0" lengthAdjust="spacingAndGlyphs">thana</tspan><tspan x="584.0" fill="#8b949e" textLength="62.4" lengthAdjust="spacingAndGlyphs">· YThana</tspan></text>
+<line x1="537.2" y1="109.3" x2="951" y2="109.3" stroke="#2d333b"/>
+<text y="128.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Role</tspan><tspan x="638.6" fill="#c9d1d9" textLength="226.2" lengthAdjust="spacingAndGlyphs">Full-stack Developer · 3+ yrs</tspan></text>
+<text y="143.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Base</tspan><tspan x="638.6" fill="#c9d1d9" textLength="163.8" lengthAdjust="spacingAndGlyphs">Batticaloa, Sri Lanka</tspan></text>
+<text y="158.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="23.4" lengthAdjust="spacingAndGlyphs">Edu</tspan><tspan x="638.6" fill="#c9d1d9" textLength="249.6" lengthAdjust="spacingAndGlyphs">MSc CS (reading) · BSc ICT — USJ</tspan></text>
+<text y="188.3" xml:space="preserve"><tspan x="537.2" fill="#7ee787" textLength="46.8" lengthAdjust="spacingAndGlyphs">~/work</tspan></text>
+<text y="203.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="70.2" lengthAdjust="spacingAndGlyphs">Gravitide</tspan><tspan x="638.6" fill="#ffa657" textLength="210.6" lengthAdjust="spacingAndGlyphs">Full-stack Dev · 2025 — now</tspan></text>
+<text y="218.3" xml:space="preserve"><tspan x="638.6" fill="#8b949e" textLength="257.4" lengthAdjust="spacingAndGlyphs">Nuxt · Tauri · FastAPI · Supabase</tspan></text>
+<text y="233.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="54.6" lengthAdjust="spacingAndGlyphs">Trivyol</tspan><tspan x="638.6" fill="#ffa657" textLength="202.8" lengthAdjust="spacingAndGlyphs">Front-end Dev · 2023 — now</tspan></text>
+<text y="248.3" xml:space="preserve"><tspan x="638.6" fill="#8b949e" textLength="312.0" lengthAdjust="spacingAndGlyphs">Dashboards · WebSockets · Maps · AI chat</tspan></text>
+<text y="278.3" xml:space="preserve"><tspan x="537.2" fill="#7ee787" textLength="54.6" lengthAdjust="spacingAndGlyphs">~/stack</tspan></text>
+<text y="293.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Lang</tspan><tspan x="638.6" fill="#c9d1d9" textLength="280.8" lengthAdjust="spacingAndGlyphs">TypeScript · JavaScript · Python · C</tspan></text>
+<text y="308.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="62.4" lengthAdjust="spacingAndGlyphs">Frontend</tspan><tspan x="638.6" fill="#c9d1d9" textLength="226.2" lengthAdjust="spacingAndGlyphs">Vue · Nuxt · React · Tailwind</tspan></text>
+<text y="323.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="54.6" lengthAdjust="spacingAndGlyphs">Backend</tspan><tspan x="638.6" fill="#c9d1d9" textLength="288.6" lengthAdjust="spacingAndGlyphs">Node.js · FastAPI · Hono · WebSockets</tspan></text>
+<text y="338.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Data</tspan><tspan x="638.6" fill="#c9d1d9" textLength="312.0" lengthAdjust="spacingAndGlyphs">PostgreSQL · MySQL · Supabase · Firebase</tspan></text>
+<text y="353.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="39.0" lengthAdjust="spacingAndGlyphs">Tools</tspan><tspan x="638.6" fill="#c9d1d9" textLength="226.2" lengthAdjust="spacingAndGlyphs">Docker · Tauri · Git &amp; GitHub</tspan></text>
+<text y="383.3" xml:space="preserve"><tspan x="537.2" fill="#7ee787" textLength="54.6" lengthAdjust="spacingAndGlyphs">~/speak</tspan></text>
+<text y="398.3" xml:space="preserve"><tspan x="537.2" fill="#c9d1d9" textLength="39.0" lengthAdjust="spacingAndGlyphs">Tamil</tspan><tspan x="584.0" fill="#8b949e" textLength="46.8" lengthAdjust="spacingAndGlyphs">native</tspan><tspan x="646.4" fill="#c9d1d9" textLength="70.2" lengthAdjust="spacingAndGlyphs">· English</tspan><tspan x="724.4" fill="#8b949e" textLength="46.8" lengthAdjust="spacingAndGlyphs">fluent</tspan><tspan x="779.0" fill="#c9d1d9" textLength="70.2" lengthAdjust="spacingAndGlyphs">· Sinhala</tspan><tspan x="857.0" fill="#8b949e" textLength="39.0" lengthAdjust="spacingAndGlyphs">basic</tspan></text>
+<text y="428.3" xml:space="preserve"><tspan x="537.2" fill="#7ee787" textLength="54.6" lengthAdjust="spacingAndGlyphs">~/reach</tspan></text>
+<text y="443.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="46.8" lengthAdjust="spacingAndGlyphs">GitHub</tspan><tspan x="638.6" fill="#c9d1d9" textLength="132.6" lengthAdjust="spacingAndGlyphs">github.com/YThana</tspan></text>
+<text y="458.3" xml:space="preserve"><tspan x="537.2" fill="#79c0ff" textLength="31.2" lengthAdjust="spacingAndGlyphs">Mail</tspan><tspan x="638.6" fill="#c9d1d9" textLength="140.4" lengthAdjust="spacingAndGlyphs">ythana09@gmail.com</tspan></text>
 <text x="28" y="504.6"><tspan fill="#7ee787">➜</tspan><tspan fill="#58a6ff"> ~ </tspan><tspan fill="#c9d1d9">building with Vue, Nuxt &amp; AI</tspan><tspan fill="#8b949e"> ▍</tspan></text>
 </svg>
